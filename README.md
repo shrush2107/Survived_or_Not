@@ -1,6 +1,6 @@
 # Survived or Not (Titnatic Dataset)
 
-### Survived or Not.ipynb contains:
+### SurvivedOrNot.ipynb contains:
 
 1. EDA process and explaination for each plotand diagram.
 
