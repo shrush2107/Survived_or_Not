@@ -21,23 +21,6 @@ You can install these dependencies using pip by running:
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ```
 
-## Running the Script
-
-To run the script, follow these steps:
-
-1. Clone this repository to your local machine or download the script `titanic_survival_prediction.py`.
-
-2. Open a terminal or command prompt and navigate to the directory containing the script.
-
-3. Run the script using Python:
-
-```bash
-python titanic_survival_prediction.py
-```
-
-4. The script will load the Titanic dataset, perform data preprocessing, exploratory data analysis (EDA), and train various machine learning models. Finally, it will display the accuracy of each model and provide insights into survival predictions.
-   
-
 ## Machine Learning Models
 
 The script uses several machine learning models for prediction, including:
